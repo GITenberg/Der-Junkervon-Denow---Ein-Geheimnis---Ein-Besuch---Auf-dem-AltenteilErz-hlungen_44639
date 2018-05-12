@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8890
     wikipedia: http://de.wikipedia.org/wiki/Wilhelm_Raabe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44639#Der-Junkervon-Denow---Ein-Geheimnis---Ein-Besuch---Auf-dem-AltenteilErz-hlungen
 gutenberg_issued: '2014-01-09'
 gutenberg_type: Text
 identifiers:
